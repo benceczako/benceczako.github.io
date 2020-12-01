@@ -4,11 +4,12 @@ body{
 }
 h1{
     text-align: center;
+    color: whitesmoke;
 }
 .list-wrapper{
     width: 95%;    
-    max-width: 500px;
-    margin: 30px auto;
+    max-width: 800px;
+    margin: 50px auto;
 }
 
 .list{
