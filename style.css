@@ -37,7 +37,7 @@ h2{
 
 .list .list-item-image{    
     height: 100px;    
-    flex-shrink: 0;
+    flex-shrink: 1;
 }
 .list .list-item-image img{    
     width: 125px;
