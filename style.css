@@ -6,6 +6,11 @@ h1{
     text-align: center;
     color: whitesmoke;
 }
+h2{
+    text-align: center;
+    color: whitesmoke;
+}
+
 .list-wrapper{
     width: 95%;    
     max-width: 800px;
@@ -49,11 +54,27 @@ h1{
     font-size: 18px;
     margin-top: 15px;
     font-variant: small-caps;
-    letter-spacing: 1px;
+    letter-spacing: 3px;
 }
 
 .list .list-item-content p{
     margin-top: 5px;
     color: #888;
     margin-bottom: 0;
+}
+table, td{
+    border-width:15px;
+    border-style: groove;
+    border-color:whitesmoke;
+    color: whitesmoke;
+    text-align: center;
+    vertical-align: center;
+    padding: 15px;
+    
+}
+table{
+    width: 800px;
+    height: 400px;
+    margin: 0 auto 0 auto;
+    text-align: center;
 }
